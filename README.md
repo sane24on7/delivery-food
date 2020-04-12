@@ -1,1 +1,1 @@
-# delivery-food
+# Интенсив по вёрстке | "Delivery Food"
